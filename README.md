@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @freedrms
 - 👀 I’m interested in fixing bugs
-- 🌱 I’m currently learning Salt and Go.
+- 🌱 I’m currently learning Go.
